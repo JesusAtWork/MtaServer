@@ -1,0 +1,5 @@
+<meta>
+    <info author="Marcelo" type="script" name="Sistema de Animaciones" description="Animaciones." />
+    <script src="client.lua" type="client"/>
+	<script src="server.luac" type="server"/>
+</meta>
